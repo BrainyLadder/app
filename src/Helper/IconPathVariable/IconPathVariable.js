@@ -1,0 +1,36 @@
+export const IconPathVariable = {
+    Flag: require('../../assets/icons/india.png'),
+    US: require('../../assets/icons/US.png'),
+    Down: require('../../assets/icons/downarrow.png'),
+    Left: require('../../assets/icons/left.png'),
+    Back: require('../../assets/icons/back.png'),
+    Home: require('../../assets/icons/home.png'),
+    Hom: require('../../assets/icons/hom.png'),
+    House: require('../../assets/icons/house.png'),
+    Index: require('../../assets/icons/badal.png'),
+    Camera: require('../../assets/icons/camera.png'), 
+    Forum: require('../../assets/icons/forum.png'),
+    Forum1: require('../../assets/icons/forum1.png'),
+    Chat: require('../../assets/icons/chat.png'),
+    Chat1: require('../../assets/icons/chat1.png'),
+    Phone: require('../../assets/icons/phone.png'),
+    Menu: require('../../assets/icons/menu.png'),
+    Close: require('../../assets/icons/close.png'),
+    Youtube: require('../../assets/icons/youtube.png'),
+    Youtub: require('../../assets/icons/youtub.png'),
+    Video: require('../../assets/icons/video.png'),
+    Rate: require('../../assets/icons/like.png'),
+    Instagram: require('../../assets/icons/instagram.png'),
+    Facebook: require('../../assets/icons/facebook.png'),
+    Logout: require('../../assets/icons/logout.png'),
+    Cart: require('../../assets/icons/cart.png'),
+
+    Profile: require('../../assets/icons/profile.png'),
+    Profil: require('../../assets/icons/profil.png'),
+    User: require('../../assets/icons/user.png'),
+    User1: require('../../assets/icons/user1.png'),
+
+    Search: require('../../assets/icons/search.png'),
+    Notification: require('../../assets/icons/notification.png')
+
+}
